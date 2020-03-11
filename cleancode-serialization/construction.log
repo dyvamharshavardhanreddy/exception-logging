@@ -1,0 +1,13 @@
+2020-03-11 23:00:37 INFO  App:12 - enter your specifications
+A.select material Standard:
+	1.standard material
+	2.above standard material
+	3.high standard material
+	4.high standard with fully automated
+
+2020-03-11 23:00:37 INFO  App:14 - B.total area of house in squarefeet.
+
+2020-03-11 23:00:52 DEBUG App:40 - you have selected HIGH STANDARD MATERIAL WITH FULLY AUTOMATED
+2020-03-11 23:00:52 DEBUG App:41 - the given area in square feet=130.0
+2020-03-11 23:00:52 INFO  App:43 - construction cost = 325000.0
+2020-03-11 23:00:52 WARN  App:44 - Too High cost

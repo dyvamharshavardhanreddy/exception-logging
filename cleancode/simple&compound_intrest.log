@@ -1,0 +1,9 @@
+2020-03-11 22:56:08 INFO  App:9 - enter 'simpleintrest or compoundintrest' for calculating simple intrest or compound intrest
+
+2020-03-11 22:56:19 DEBUG App:12 - compoundintrestselected
+2020-03-11 22:56:24 DEBUG App:11 - principle ammount = 12000.0
+2020-03-11 22:56:29 DEBUG App:13 - time in years = 4.0
+2020-03-11 22:56:35 DEBUG App:15 - rate per annum = 20.0
+2020-03-11 22:56:35 INFO  App:16 - calculating compoundintrest......
+2020-03-11 22:56:35 FATAL App:21 - compound Intrest = 4147.2
+2020-03-11 22:56:35 WARN  App:22 - Return amount = 24883.2
